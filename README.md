@@ -1,2 +1,8 @@
-# Hello everyone! I'm Ashley Bulseco (_she / her_) 
-Welcome to my GitHub profile! I'm currently a postdoc at the University of New Hampshire. I research marine, estuarine, and wetland microbial ecology, with a particular focus on how these systems respond to human-driven environmental change. Microbes are the main drivers of biogeochemical cycling, thus my research often aims to understand carbon and nitrogen cycling through a microbial lens. My work takes a multi-faceted approach applying a range of interdisciplinary techniques: I combine in situ field work, controlled laboratory experiments, biogeochemical measurements, next-generation sequencing, and bioinformatics to answer questions about these complex systems. You can read more about my work on my website ([ashley.bulseco.org](https://ashley.bulseco.org)) or follow me on Twitter @AshleyBulseco. 
+# 👋 Hello everyone! I'm Ashley Bulseco (_she / her_) 
+Welcome to my GitHub profile! I'm currently a postdoc at the University of New Hampshire. 
+
+- 🌊 I research marine, estuarine, and wetland microbial ecology and responses to human-driven environmental change.
+- 🌱 Always interested in new ideas related to microbes, greenhouse gases, & biogeochemical cycling. Let's collaborate!
+- 📚 Currently improving my bioinformatic and analytical skills. Follow along! 
+
+You can read more about my work on my website ([ashley.bulseco.org](https://ashley.bulseco.org)) or follow me on Twitter ([@AshleyBulseco](https://x.com/AshleyBulseco)). 
