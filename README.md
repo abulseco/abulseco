@@ -1,5 +1,5 @@
 # 👋 Hello everyone! I'm Ashley Bulseco (_she / her_) 
-Welcome to my GitHub profile! I am an incoming Assistant Professor at the University of New Hampshire in the Department of Biological Sciences.
+Welcome to my GitHub profile! I am an Assistant Professor in Coastal Microbial & Ecosystem Ecology at the University of New Hampshire in the Department of Biological Sciences.
 
 - 🌊 I research marine, estuarine, and wetland microbial ecology and responses to human-driven environmental change.
 - 🌱 Always interested in new ideas related to microbes, greenhouse gases, & biogeochemical cycling. Let's collaborate!
