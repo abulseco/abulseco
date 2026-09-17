@@ -5,4 +5,4 @@ Welcome to my GitHub profile! I am an Assistant Professor in Coastal Microbial &
 - 🌱 Always interested in new ideas related to microbes, greenhouse gases, & biogeochemical cycling. Let's collaborate!
 - 📚 Currently improving my bioinformatic and analytical skills. Follow along! 
 
-You can read more about my work on my website ([ashley.bulseco.org](https://ashley.bulseco.org)) or follow me on Bluesky ([@AshleyBulseco](https://x.com/AshleyBulseco)). 
+You can read more about my work on my website ([ashley.bulseco.org](https://ashley.bulseco.org)), follow me on Bluesky ([@AshleyBulseco](https://x.com/AshleyBulseco)), or check out our ([lab Github](https://github.com/coastal-microeco-lab)).
